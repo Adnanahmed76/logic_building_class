@@ -7,7 +7,7 @@ for(int i=1;i<=n;i++){
     print("$i a even number");
   }
   else{
-    print("$i odd numbers");
+    print("$i a odd numbers");
   }
 }
 }
