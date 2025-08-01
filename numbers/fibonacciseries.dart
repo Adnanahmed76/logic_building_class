@@ -3,7 +3,7 @@
 void main(){
   int n=10;
   for(int i=0;i<n;i++){
-print(Fibonacci(i));
+print("Fibonacci series number is $Fibonacci)");
   }
 }
 int Fibonacci(int n){
