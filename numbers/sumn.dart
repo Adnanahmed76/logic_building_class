@@ -11,5 +11,5 @@ int sumnnumber(int n){
         sum=sum+i;
 
     }
-    return sumnnumber;
+    return sumnnumber(10);
 }
