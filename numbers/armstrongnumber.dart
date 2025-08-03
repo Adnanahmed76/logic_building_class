@@ -1,7 +1,7 @@
 
 
 void main(){
-int n=153;
+int n=903;
 int r,sum,data;
 data=n;
 sum=0;
@@ -17,7 +17,7 @@ if(sum==data){
   print("this is a Armstrong number $sum");
   
   }else{
-    print("no it's not a armstrong number");
+    print("no it's not a armstrong number $sum");
   }
 
 }
